@@ -19,7 +19,7 @@ apt update ; apt install git curl -y ; git clone # ; cd track-ip ; bash trackip
 ```
 <br>
 <p align="center">
-<img src="https://github.com/developertijanke/tijan-track-ip-termux/blob/main/trackip%20footer.png?raw=true>
+<img src="https://github.com/developertijanke/tijan-track-ip-termux/blob/main/trackip%20footer.png?raw=true">
 
 ### <<< Kingly, Give a Credit if you find it useful >>>
 
