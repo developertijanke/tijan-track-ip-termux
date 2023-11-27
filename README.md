@@ -8,14 +8,14 @@
 
 * `apt update`
 * `apt install git curl -y`
-* `git clone git://github.com/developertijanke`
+* `git clone https://github.com/developertijanke/tijan-track-ip-termux.git`
 * `cd track-ip`
 
 #### > Run : `bash trackip`
 
 ## Single Command :
 ```
-apt update ; apt install git curl -y ; git clone # ; cd track-ip ; bash trackip
+apt update ; apt install git curl -y ; git clone https://github.com/developertijanke/tijan-track-ip-termux.git ; cd track-ip ; bash trackip
 ```
 <br>
 <p align="center">
@@ -24,6 +24,6 @@ apt update ; apt install git curl -y ; git clone # ; cd track-ip ; bash trackip
 ### <<< Kingly, Give a Credit if you find it useful >>>
 
 ## Find Me on :
-[![Github] <a href="https://github.com/developertijanke/">developertijanke</a>
-[![Instagram] <a href="https://www.instagram.com/developer_tijan/">developer_tijan</a>
-[![What'sApp] (+254757490728) let's chat
+[![Github]()](https://github.com/developertijanke/)
+[![Instagram]()](https://www.instagram.com/developer_tijan/)
+[![Messenger]()(+254757490728)
