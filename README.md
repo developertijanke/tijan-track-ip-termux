@@ -24,6 +24,6 @@ apt update ; apt install git curl -y ; git clone https://github.com/developertij
 ### <<<<<< Kingly, Give a Credit if you find it useful >>>>>>
 
 ## Find Me on :
-[![Github](https://github.com/developertijanke/tijan-track-ip-termux/blob/main/instagram.svg)](https://github.com/developertijanke/)
-[![Instagram]()](https://www.instagram.com/developer_tijan/)
+[![Github]()](https://github.com/developertijanke/)
+[![Instagram](https://github.com/developertijanke/tijan-track-ip-termux/blob/main/instagram.svg)](https://www.instagram.com/developer_tijan/)
 
