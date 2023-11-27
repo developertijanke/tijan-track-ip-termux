@@ -1,7 +1,7 @@
 # Developer Tijan with Track-IP 2023
 
 <p align="center">
-<a href="https://github.com/developertijanke"><img title="Developer Tijan" src="https://github.com/developertijanke/tijan-track-ip-termux/blob/main/logo.jpg?raw=true"></a>
+<a href="https://github.com/developertijanke"><img title="Developer Tijan" src="https://github.com/developertijanke/tijan-track-ip-termux/blob/main/trackip.png?raw=true"></a>
 
 
 ## Installation :
