@@ -26,4 +26,4 @@ apt update ; apt install git curl -y ; git clone https://github.com/developertij
 ## Find Me on :
 [![Github]()](https://github.com/developertijanke/)
 [![Instagram]()](https://www.instagram.com/developer_tijan/)
-[![Messenger]()(+254757490728)
+[![What's App]()](+254757490728)
