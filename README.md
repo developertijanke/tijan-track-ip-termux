@@ -6,12 +6,12 @@
 
 ## Installation :
 
-* `apt update`
+* ```apt update```
 * `apt install git curl -y`
 * `git clone https://github.com/developertijanke/tijan-track-ip-termux.git`
 * `cd track-ip`
 
-#### > Run : `bash trackip`
+#### Run : `bash trackip`
 
 ## Single Command :
 ```
@@ -21,7 +21,7 @@ apt update ; apt install git curl -y ; git clone https://github.com/developertij
 <p align="center">
 <img src="https://github.com/developertijanke/tijan-track-ip-termux/blob/main/trackip%20footer.png?raw=true">
 
-### <<<<<< Kingly, Give a Credit if you find it useful >>>>>>
+### Kingly, Give a Credit if you find this tool useful
 
 ## Find Me on :
 [![Github](https://github.com/developertijanke/tijan-track-ip-termux/blob/main/github-1.svg)](https://github.com/developertijanke/)
